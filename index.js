@@ -1,4 +1,4 @@
-var debug = require('debug')('serandules-serand-token');
+var debug = require('debug')('serandules:serand-token');
 var mongoose = require('mongoose');
 var Token = require('token');
 
